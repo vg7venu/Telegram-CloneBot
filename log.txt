@@ -1,0 +1,7 @@
+2020-11-09 05:37:39,315 - bot - INFO - Bot Started!
+2020-11-09 05:37:47,369 - bot - INFO - File ID: 1wkDq78tb-Yf8P8YyoTvxk5A-D_vDfEm-
+2020-11-09 05:37:48,961 - bot - INFO - Created Google-Drive Folder:
+Name: temp
+ID: 1cfZHqL772omsA8NwE6dXHsq27O3gwl43 
+2020-11-09 05:37:48,961 - bot - INFO - Syncing: temp
+2020-11-09 05:38:07,190 - bot - ERROR - Message to edit not found
